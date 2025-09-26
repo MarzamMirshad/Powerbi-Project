@@ -1,5 +1,4 @@
-"# Powerbi-Project" 
-"# Powerbi-Project" 
+
 #  Power BI Project Collection
 
 A set of Power BI reports built to explore various datasets, analyze trends, and visualize insights.
